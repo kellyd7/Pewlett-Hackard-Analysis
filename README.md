@@ -11,7 +11,7 @@ Four major points from the two analysis deliverables are:
 
 1. Top 3 Retiring titles were Senior Engineer, Senior Staff and Engineer
 
- ![This is an image]()
+ ![This is an image](https://github.com/kellyd7/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
 
 2. The data contains employees with multiple titles that requires cleaning up.
  
@@ -21,7 +21,7 @@ Four major points from the two analysis deliverables are:
 
 4. There are no retiring employees with the title "Technique Leader" so this implies that there are no qualified mentors.
 
- ![This is an image]()
+ ![This is an image](https://github.com/kellyd7/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
 
 
 ## SUMMARY
