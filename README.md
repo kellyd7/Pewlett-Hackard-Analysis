@@ -28,12 +28,12 @@ Four major points from the two analysis deliverables are:
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
- -There will be 90,398 roles that will need to be filled.
+- There will be 90,398 roles that will need to be filled.
   
   
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
 
- -Yes, there are more than enough.
+- Yes, there are more than enough.
   
   
 Two addditional queries/tables that may provide more insight into the upcoming 'silver tsunami" would be:
