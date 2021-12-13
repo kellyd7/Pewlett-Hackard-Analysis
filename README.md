@@ -17,7 +17,7 @@ Four major points from the two analysis deliverables are:
  
 3. There are 1,549 mentorship eligible employees
 
- ![This is an image]()
+ ![This is an image](https://github.com/kellyd7/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligible.png)
 
 4. There are no retiring employees with the title "Technique Leader" so this implies that there are no qualified mentors.
 
