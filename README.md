@@ -19,7 +19,7 @@ Four major points from the two analysis deliverables are:
 
  ![This is an image](https://github.com/kellyd7/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligible.png)
 
-4. There are no retiring employees with the title "Technique Leader" so this implies that there are no qualified mentors.
+4. There are only 2 managers retiring.
 
  ![This is an image](https://github.com/kellyd7/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
 
@@ -33,7 +33,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
   
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?"
 
-  No.
+  Yes, there are more than enough.
   
   
 Two addditional queries/tables that may provide more insight into the upcoming 'silver tsunami" would be:
